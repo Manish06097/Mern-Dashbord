@@ -5,4 +5,4 @@ Build and Deploy a MERN Stack Admin Dashboard tutorial. For frontend, we will be
 
 it may take time to load the data as backend gets shutdown when no longer used.
 
-running app link - https://mern-dashboard-admin-frontend-90ir.onrender.com
+Live Demo link - https://mern-dashboard-admin-frontend-90ir.onrender.com
